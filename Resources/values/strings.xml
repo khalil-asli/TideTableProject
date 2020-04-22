@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UIDESIGN</string>
+    <string name="action_settings">Settings</string>
+	<string name="app">TIDAL INFORMATION</string>
+	<string name="currentdata">GET CURRENT DATA</string>
+	<string name="previsiondata">GET PREVISION DATA</string>
+	<string name="description">Details for the past 6 hours and prevision for next 4 hours within every 30 minutes:</string>
+    <string name="citTxt">Lille</string>
+    <string name="heightValueTxt">1m</string>
+    <string name="dateTxt">Thursday 2 December</string>
+    <string name="cityTxt">City</string>
+    <string name="HeightTxt">TideHeight</string>
+    <string name="AtlasTxt">Atlas</string>
+    <string name="cityValueTxt">Paris</string>
+    <string name="AtlasValueTxt">None</string>
+    <string name="sunsetTxt">Sunset</string>
+    <string name="sunriseTxt">Sunrise</string>
+    <string name="sunsetValueTxt">07:49</string>
+    <string name="sunriseValueTxt">18:14</string>
+    <string name="todo">TODO</string>
+</resources>

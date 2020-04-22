@@ -1,0 +1,46 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/back"
+    android:weightSum="100"
+    android:minWidth="25px"
+    android:minHeight="25px">
+
+    <TextView
+        android:text="@string/app"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:textColor="#0E4164"
+        android:id="@+id/txtcreateUser"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:layout_weight="20"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:text="@string/currentdata"
+        android:id="@+id/current"
+        android:layout_weight="15"
+        android:layout_marginTop="250dp"
+        android:textSize="20sp"
+        android:background="@drawable/Current"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:textSize="40dp"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"/>
+ 
+    <Button
+        android:text="@string/previsiondata"
+        android:id="@+id/prevision"
+        android:layout_weight="15"
+        android:background="@drawable/Prevision"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="23.0dp" />
+   
+</LinearLayout>
